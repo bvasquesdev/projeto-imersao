@@ -12,6 +12,6 @@ let dados = [
     {
         titulo: "House of Dragon",
         sinopse: "A Casa do Dragão é um spin-off da aclamada série Game of Thrones, ambientado cerca de 200 anos antes dos eventos da série original. A trama se concentra na Casa Targaryen, no auge de seu poder, e narra uma sangrenta guerra civil conhecida como a Dança dos Dragões.",
-        link: "https://pt.wikipedia.org/wiki/Breaking_Bad"
+        link: "https://pt.wikipedia.org/wiki/House_of_the_Dragon"
     }
-]
+];
